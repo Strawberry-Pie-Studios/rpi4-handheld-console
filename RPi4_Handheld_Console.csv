@@ -1,0 +1,5 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"A_button1,B_button1,Down_button1,Left_button1,L_button1,Right_button1,R_button1,Select_button1,Start_button1,Up_button1,X_button1,Y_button1,ZL_button1,ZR_button1","SW_Push","","Button_Switch_THT:SW_PUSH_6mm_H4.3mm,Button_Switch_THT:SW_Tactile_SKHH_Angled","14",""
+"J1","GPIO","","Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical","1",""
+"left_joystick1,right_joystick1","Conn_01x06_Pin","","Connector_PinHeader_2.00mm:PinHeader_1x06_P2.00mm_Vertical","2","DNP"
+"left_side_of_ADS1115IDGS1,right_side_of_ADS1115IDGS1","Conn_01x06_Pin","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","2",""
